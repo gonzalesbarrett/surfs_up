@@ -5,9 +5,11 @@ The purpose of this analysis was to review weather patterns in Oahu to determine
 
 ## Results
 This table represents June’s temperature statistics. 
+
 ![June Temp]( https://github.com/gonzalesbarrett/surfs_up/blob/main/June%20Temps.png)
 
 This table represents December’s temperature statistics.
+
 ![December Temp]( https://github.com/gonzalesbarrett/surfs_up/blob/main/Dec%20Temps.png)
 
 The key takeaways from these results:
